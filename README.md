@@ -1,2 +1,2 @@
-## https://eofuck.github.io/react-birthday-reminder/
+https://eofuck.github.io/react-birthday-reminder/
 
